@@ -43,5 +43,5 @@ Este projeto é um board de tarefas desenvolvido em **Java**, com persistência 
 
 ## Diagrama do Projeto 
 
-![Diagrama do Projeto](diagrama/board.png)
+![Diagrama do Projeto](diagrama/Board.drawio.png)
 
